@@ -1,7 +1,7 @@
 // ===== 个人配置 =====
 const config = {
   avatar: 'https://avatars.githubusercontent.com/u/123456?v=4',
-  name: 'Your Name',
+  name: '狐狸引导页',
   bio: '一句简短的自我介绍',
   links: [
     { title: '狐狸资源网', url: 'https://www.foxccs.com/' },
