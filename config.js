@@ -4,11 +4,12 @@ const config = {
   name: 'Your Name',
   bio: '一句简短的自我介绍',
   links: [
-    { title: '📧 邮箱', url: 'mailto:you@example.com' },
-    { title: '🐙 GitHub', url: 'https://github.com/yourname' },
-    { title: '🐦 Twitter', url: 'https://twitter.com/yourname' },
-    { title: '📷 Instagram', url: 'https://instagram.com/yourname' },
-    { title: '📝 博客', url: 'https://blog.example.com' }
+    { title: '狐狸资源网', url: 'https://www.foxccs.com/' },
+    { title: '狐狸导航', url: 'https://www.foxccs.cn/' },
+    { title: '蚂蚁分享网', url: 'https://www.emyi.cn/' },
+    { title: '蜜蜂图床', url: 'https://www.beeimg.cn/' },
+    { title: ' 蜂巢云盘', url: 'https://www.beeseek.cn/home' },
+    { title: ' 邮箱', url: 'mailto:foxccs@qq.com' }
   ]
 };
 
