@@ -1,6 +1,6 @@
 // ===== 个人配置 =====
 const config = {
-  avatar: 'https://avatars.githubusercontent.com/u/123456?v=4',
+  avatar: 'https://api.fenx.top/api/qqimg?qq=82115339',
   name: '狐狸引导页',
   bio: '一句简短的自我介绍',
   links: [
