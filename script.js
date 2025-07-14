@@ -1,13 +1,15 @@
   /* ===== 个人配置：只改这里 ===== */
   const config = {
-    avatar: 'https://avatars.githubusercontent.com/u/123456?v=4',
-    name: 'Your Name',
+    avatar: 'https://api.fenx.top/api/qqimg?qq=82115339',
+    name: '狐狸引导页',
     bio: '加载中…',                 // 占位文案
     links: [
-      { title: '📧 邮箱', url: 'mailto:you@example.com' },
-      { title: '🐙 GitHub', url: 'https://github.com/yourname' },
-      { title: '🐦 Twitter', url: 'https://twitter.com/yourname' },
-      { title: '📝 博客', url: 'https://blog.example.com' }
+      { title: '狐狸资源网', url: 'https://www.foxccs.com/' },
+    { title: '狐狸导航', url: 'https://www.foxccs.cn/' },
+    { title: '蚂蚁分享网', url: 'https://www.emyi.cn/' },
+    { title: '蜜蜂图床', url: 'https://www.beeimg.cn/' },
+    { title: ' 蜂巢云盘', url: 'https://www.beeseek.cn/home' },
+    { title: ' 邮箱', url: 'mailto:foxccs@qq.com' }
     ]
   };
   /* ===== 渲染 ===== */
